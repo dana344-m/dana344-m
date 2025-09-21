@@ -8,14 +8,29 @@
 ![](https://komarev.com/ghpvc/?username=dana344-m&color=green)
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=5D3FD3&duration=4000&lines=Hi!!+👋;+I'm+Danah+Albadrani!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=fff5e5&duration=4000&lines=Hi!!;+I'm+Danah+Albadrani!;" />
 </h1>
 
 
-### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
+### 👋 Hi, I’m Dana
 
-- 🌱 I’m currently learning [System Design](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)
-- 💬 Ask me about Java, Node.js, React...or anything [here](https://github.com/{USERNAME}/{USERNAME}/issues)
+🎓 AI Engineer |  Machine Learning • Deep Learning • Computer Vision • NLP • Data Analysis
+
+ About Me
+
+I’m an AI engineer with a strong foundation in machine learning and deep learning, gaining experience in computer vision and NLP. Comfortable in **Python** and **Java**, I enjoy building intelligent systems that understand, generate, and interact like humans. Passionate about **data analysis**, I focus on connecting theory to practice and creating AI that’s clear, useful, and intentional.
+
+💡 Interests & Expertise:  
+-  **Deep Learning & ML** – TensorFlow, PyTorch, Scikit-learn  
+-  **Computer Vision** – CNNs, OpenCV, image recognition  
+-  **Natural Language Processing (NLP)** – Transformers, LLMs, text understanding & generation  
+-  **Data Analysis** – Pandas, NumPy, pattern recognition, insight extraction  
+
+ I enjoy collaborative projects, hands-on experimentation, and turning AI research into real-world solutions.
+
+
+- 🌱 I’m currently learning [AI](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)
+-  Ask me about Python, Java, Data anaylsis...or anything [here](https://github.com/dana344-m/dana344-m/issues)
 
 <br>
 
