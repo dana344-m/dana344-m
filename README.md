@@ -61,9 +61,9 @@ I’m an AI engineer with a strong foundation in machine learning and deep learn
 <br>
 
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=danah&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="danah's GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=danah&theme=transparent&count_private=true&border_radius=10&locale=en" alt="danah's" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=danah&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="danah's Most Used Languages" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=dana344-m&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="dana344-m's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=dana344-m&theme=transparent&count_private=true&border_radius=10&locale=en" alt="dana344-m's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=dana344-m&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="dana344-m's Most Used Languages" />
 </div>
 
 <hr>
