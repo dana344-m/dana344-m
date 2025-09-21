@@ -29,7 +29,7 @@ I’m an AI engineer with a strong foundation in machine learning and deep learn
  I enjoy collaborative projects, hands-on experimentation, and turning AI research into real-world solutions.
 
 
-- 🌱 I’m currently learning [AI](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)
+- 🌱 I’m currently learning [AI]
 -  Ask me about Python, Java, Data anaylsis...or anything [here](https://github.com/dana344-m/dana344-m/issues)
 
 <br>
