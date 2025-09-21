@@ -35,10 +35,10 @@ I’m an AI engineer with a strong foundation in machine learning and deep learn
 <br>
 
 <div align="center">
-  <a href="Yara.alshedokhi@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  <a href="danhalbdrany93@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=pink" />
   </a>
-  <a href="www.linkedin.com/in/yara-alshedokhi-sa" target="_blank">
+  <a href="www.linkedin.com/in/danah-albadrani" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
